@@ -37,7 +37,7 @@
                             <a
                                 href="{{ route('register') }}"
                                 class="btn btn-success rounded-pill">
-                                Dasftar
+                                Daftar
                             </a>
                         </li>
                     @endif
